@@ -1,0 +1,28 @@
+{
+  "name": "FROGGY-FROGG",
+  "version": "1.0.0",
+  "description": "Frogg app",
+  "author": "STEVE GRANGER",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mean",
+    "Frogg game"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.1",
+    "boostrap": "^1.0.0",
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.2",
+    "jquery": "^3.2.1",
+    "jsonwebtoken": "^7.4.1",
+    "mongodb": "^2.2.26",
+    "mongoose": "^4.10.0",
+    "phaser": "^2.6.2"
+  }
+}
